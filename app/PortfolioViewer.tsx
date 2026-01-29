@@ -10,6 +10,7 @@ const portfolioImages = [
   "Desktop - 4.png",
   "Desktop - 5.png",
   "Desktop - 6.png",
+  "Desktop - 7.png",
   "Desktop - 8.png",
   "Desktop - 9.png",
   "Desktop - 10.png",
